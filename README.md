@@ -16,7 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![mysql](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Yaml](https://img.shields.io/badge/-SQL-000000?style=flat&logo=yaml)
+![Groovy](https://img.shields.io/badge/-SQL-000000?style=flat&logo=groovy)
 
 ##### Some of the technologies I have worked with
 
@@ -29,11 +31,9 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![ArgoCD](https://img.shields.io/badge/-Argocd-black?style=flat-square&logo=argocd)
 
 <br/>
 
 ---
-
-Credit: [Danushka2](https://github.com/Danushka2)
-
-Last edited on: 30/06/2022
