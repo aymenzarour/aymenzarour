@@ -17,8 +17,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Yaml](https://img.shields.io/badge/-Yaml-000000?style=flat&logo=yaml)
-![Groovy](https://img.shields.io/badge/-Groovy-000000?style=flat&logo=groovy)
 
 ##### Some of the technologies I have worked with
 
