@@ -1,11 +1,11 @@
-<h2 align="center">Hi there 👋 I'm <a href="https://github.com/aymenzarour">Aymen Zarour</a></h2>
+<h2 align="left">Hi there 👋 I'm <a href="https://github.com/aymenzarour">Aymen Zarour</a></h2>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="160" alt="Dev GIF">
 </p>
 
-<p align="center">
-  🚀 Junior System & DevOps Engineer | 🌐 Cloud Enthusiast | 🇫🇷 Based in France
+<p align="left">
+  🚀 Junior IT Engineer | 🌐 System & DevOps Enthusiast | 🇫🇷 Based in France
 </p>
 
 ---
@@ -53,17 +53,6 @@
 #### 🖥️ Frontend & Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
----
-
-### 📌 Projects Highlights
-
-- ⚙️ **CRV Platform** – Cloud-native stack with Redis, Node.js backend, React frontend, HPA, Redis Exporter, and Prometheus + Grafana dashboards on K3s.
-- 🌐 **Cisco SD-WAN Automation** – QEMU-based deployment of vManage, vSmart, vBond & vEdge via bash automation.
-- 🛠️ **Active Directory Deployment** – At the Ministry of Post & Telecommunications in Algeria.
-- 📱 **Kotlin Medical Appointment App** – Developed during a national club competition.
-- 📧 **Zimbra Email Server Setup** – On-premises email solution configuration.
-- ☁️ **Infrastructure Deployment** – Private cloud-native app deployments at ICOSNET ISP.
 
 ---
 
