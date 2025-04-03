@@ -1,79 +1,86 @@
-### Hey there 👋 I'm [Aymen Zarour](https://github.com/aymenzarour)
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## 🚀 Junior System & DevOps Engineer | Cloud Enthusiast
-
-🎓 Currently pursuing a Master’s degree in Computer Science (Networks specialization) at Sorbonne University.  
-🌍 Based in Orly, France 🇫🇷 | Originally from Algeria 🇩🇿  
-🧑‍🍳 Tech lover by day, chef at an Algéro-Italian restaurant by night 🍝  
-
----
-
-### 👨‍💻 What I’m up to
-
-- 🔧 Working on real-world Kubernetes projects using **K3s**, **Helm**, **Kustomize**, and **ArgoCD**
-- 📦 Automating app deployments using **CI/CD pipelines**
-- 🧠 Preparing for the **CKA (Certified Kubernetes Administrator)** exam
-- ☁️ Exploring the Cloud Native ecosystem: Prometheus, Grafana, Redis Exporter, etc.
-- 💬 Passionate about systems, cloud, networks, and DevOps culture
-
----
-
-### 💻 Languages I Use
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
-
----
-
-### 🧰 Technologies & Tools
-
-![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-222?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-222?style=flat&logo=kubernetes)
-![Helm](https://img.shields.io/badge/-Helm-222?style=flat&logo=helm)
-![Kustomize](https://img.shields.io/badge/-Kustomize-222?style=flat&logo=kubernetes)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-222?style=flat&logo=argo)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-222?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-222?style=flat&logo=jenkins)
-![Redis](https://img.shields.io/badge/-Redis-222?style=flat&logo=redis)
-![Prometheus](https://img.shields.io/badge/-Prometheus-222?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-222?style=flat&logo=grafana)
-![React](https://img.shields.io/badge/-React-222?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-222?style=flat&logo=node.js)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-222?style=flat&logo=visualstudiocode)
-
----
-
-### ☁️ Cloud Providers I Tinker With
-
-![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/-GCP-000?style=flat&logo=googlecloud)
-
----
-
-### 📈 GitHub Stats
+<h2 align="center">Hi there 👋 I'm <a href="https://github.com/aymenzarour">Aymen Zarour</a></h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aymenzarour&show_icons=true&theme=github_dark&hide=prs&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenzarour&theme=github-dark" />
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="160" alt="Dev GIF">
+</p>
+
+<p align="center">
+  🚀 Junior System & DevOps Engineer | 🌐 Cloud Enthusiast | 🇫🇷 Based in France
 </p>
 
 ---
 
-### 📬 Get in Touch
+### 🧑‍💻 About Me
 
-- ✉️ Email: aymen.zarour99@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/zarouraymen/)  
-- 🌐 [Portfolio (soon)](#)
+- 🎓 Master's in Computer Science (Networks) @ **Sorbonne University**
+- 🐳 Currently working on **Kubernetes**, **Docker**, **CI/CD**, **Monitoring**
+- 📚 Learning everything about **Cloud**, **Infrastructure as Code**, and **DevOps tools**
+- 🧪 Preparing for the **CKA certification** – Kubernetes rocks!
+- 🍝 Fun fact: I also work in an Algéro-Italian restaurant!
 
 ---
 
-🧠 _“Always learning, always growing – from sysadmin to DevOps ninja.”_
+### 🛠️ Tech Stack
 
+#### 💻 Languages  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+
+#### ⚙️ Tools & Technologies  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/-Kustomize-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### 📦 Monitoring & Databases  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+#### ☁️ Cloud Platforms  
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+#### 🖥️ Frontend & Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 📌 Projects Highlights
+
+- ⚙️ **CRV Platform** – Cloud-native stack with Redis, Node.js backend, React frontend, HPA, Redis Exporter, and Prometheus + Grafana dashboards on K3s.
+- 🌐 **Cisco SD-WAN Automation** – QEMU-based deployment of vManage, vSmart, vBond & vEdge via bash automation.
+- 🛠️ **Active Directory Deployment** – At the Ministry of Post & Telecommunications in Algeria.
+- 📱 **Kotlin Medical Appointment App** – Developed during a national club competition.
+- 📧 **Zimbra Email Server Setup** – On-premises email solution configuration.
+- ☁️ **Infrastructure Deployment** – Private cloud-native app deployments at ICOSNET ISP.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymenzarour&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymenzarour&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 📧 Email: [aymen.zarour99@gmail.com](mailto:aymen.zarour99@gmail.com)  
+- 💼 LinkedIn: [zarouraymen](https://www.linkedin.com/in/aymen-zarour/)  
+
+---
+
+<p align="center"><i>"Always learning. Always building. Always pushing limits."</i></p>
