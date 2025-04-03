@@ -1,9 +1,6 @@
-<h2 align="left">Hi there 👋 I'm <a href="https://github.com/aymenzarour">Aymen Zarour</a></h2>
+## Hi there 👋 I'm <a href="https://github.com/aymenzarour">Aymen Zarour</a>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="160" alt="Dev GIF">
-</p>
-
+<img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="160" alt="Dev GIF">
 <p align="left">
   🚀 Junior IT Engineer | 🌐 System & DevOps Enthusiast | 🇫🇷 Based in France
 </p>
