@@ -5,8 +5,6 @@
   🚀 Junior IT Engineer | 🌐 System & DevOps Enthusiast | 🇫🇷 Based in France
 </p>
 
----
-
 ### 🧑‍💻 About Me
 
 - 🎓 Master's in Computer Science (Networks) @ **Sorbonne University**
